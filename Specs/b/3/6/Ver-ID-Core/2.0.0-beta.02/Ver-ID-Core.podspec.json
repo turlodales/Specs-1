@@ -24,6 +24,9 @@
     "OpenCV2": [
       "~> 4.1"
     ],
+    "DeviceKit": [
+      "~> 4.1"
+    ],
     "ZIPFoundation": [
       "~> 0.9"
     ],
