@@ -18,7 +18,10 @@
     "git": "https://github.com/pace/cloud-sdk-ios.git",
     "tag": "2.0.0"
   },
-  "source_files": "PACECloudSDK",
+  "source_files": "PACECloudSDK/**/*.swift",
+  "pod_target_xcconfig": {
+    "PRODUCT_BUNDLE_IDENTIFIER": "cloud.pace.sdk"
+  },
   "dependencies": {
     "AppAuth": [
 
