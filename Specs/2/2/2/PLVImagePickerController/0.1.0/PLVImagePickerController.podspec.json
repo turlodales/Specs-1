@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A clone of TZImagePickerController, support picking multiple photos、original photo and video",
   "description": "PLVImagePickerController - 一个私有化仓库\n主要是iOS 支持拍照，相册和视频多选功能",
-  "homepage": "https://gitee.com/polyvios/polyv-image-picker-controller",
+  "homepage": "https://gitee.com/polyv_ef/polyv-image-picker-controller.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "polyv": "polyv_ios@163.com"
   },
   "source": {
-    "git": "https://gitee.com/polyvios/polyv-image-picker-controller.git",
+    "git": "https://gitee.com/polyv_ef/polyv-image-picker-controller.git",
     "tag": "0.1.0"
   },
   "platforms": {
