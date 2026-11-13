@@ -21,8 +21,8 @@
   "source_files": "notifly-ios-sdk/notifly-ios-sdk/**/*",
   "swift_versions": "5.0",
   "dependencies": {
-    "Firebase": [
-      "~> 9.6.0"
+    "Firebase/Core": [
+
     ],
     "FirebaseMessaging": [
 

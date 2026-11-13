@@ -24,6 +24,7 @@
     "ios": "11.0"
   },
   "swift_versions": "5",
+  "deprecated": true,
   "subspecs": [
     {
       "name": "TruoraCoreDummy",

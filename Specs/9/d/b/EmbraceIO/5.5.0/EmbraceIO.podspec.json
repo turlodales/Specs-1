@@ -9,9 +9,9 @@
     "text": "Copyright 2018 Embrace.io"
   },
   "authors": "Embrace.io",
-  "documentation_url": "https://docs.embrace.io",
+  "documentation_url": "https://embrace.io/docs/",
   "source": {
-    "http": "https://s3.amazonaws.com/embrace-downloads-prod/embrace_5.5.0.zip"
+    "http": "https://downloads.embrace.io/embrace_5.5.0.zip"
   },
   "preserve_paths": [
     "run.sh",

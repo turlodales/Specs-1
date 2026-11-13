@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "summary": "YF_FBBiddingKit",
   "description": "Facebook bidding kit 2.0 for cocoapods",
-  "homepage": "https://e.coding.net/szyifants/YF_FBBiddingKit.git",
+  "homepage": "https://yifants.cn/home",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -15,10 +15,9 @@
     "ios": "9.0"
   },
   "source": {
-    "git": "https://e.coding.net/szyifants/YF_FBBiddingKit.git",
-    "tag": "3.0.0"
+    "http": "http://mvn.yifants.cn/artifactory/fineboost-ios/fbbidding/3.0.0/YF_FBBiddingKit.zip"
   },
-  "vendored_frameworks": "FBBiddingKit.framework",
+  "vendored_frameworks": "YF_FBBiddingKit/FBBiddingKit.framework",
   "xcconfig": {
     "VALID_ARCHS": "armv7 armv7s x86_64 arm64"
   },

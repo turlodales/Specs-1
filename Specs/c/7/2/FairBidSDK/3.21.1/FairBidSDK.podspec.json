@@ -10,7 +10,7 @@
   "authors": "Fyber",
   "social_media_url": "https://www.facebook.com/fybernv/",
   "source": {
-    "http": "https://cdn2.inner-active.mobi/fairbid-sdk/ios/FairBid-iOS-SDK-3.21.1.zip"
+    "http": "https://storage.googleapis.com/gcs-fairbid-sdk-assets-prod-useast1/fairbid-sdk/ios/FairBid-iOS-SDK-3.21.1.zip"
   },
   "platforms": {
     "ios": "10.0"

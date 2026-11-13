@@ -10,7 +10,7 @@
   },
   "social_media_url": "https://twitter.com/levigroker",
   "source": {
-    "git": "https://github.com/levigroker/Sprout.git",
+    "git": "https://github.com/nickbenedetti/Sprout.git",
     "tag": "3.2.3"
   },
   "requires_arc": true,

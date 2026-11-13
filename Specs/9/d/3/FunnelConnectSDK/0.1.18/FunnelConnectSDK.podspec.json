@@ -14,10 +14,10 @@
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
   },
   "authors": {
-    "Teavaro": "ahmad.mahmoud@teavaro.org"
+    "FunnelConnectSDK": "ahmad.mahmoud@teavaro.org"
   },
   "license": "Commercial",
-  "vendored_frameworks": "funnelConnectSDK.xcframework",
+  "vendored_frameworks": "FunnelConnectSDK.xcframework",
   "libraries": "c++",
   "platforms": {
     "ios": "12"

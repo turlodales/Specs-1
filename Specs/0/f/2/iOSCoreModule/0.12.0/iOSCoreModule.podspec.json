@@ -22,6 +22,7 @@
   "platforms": {
     "ios": "11.0"
   },
+  "deprecated": true,
   "subspecs": [
     {
       "name": "iOSCoreModule",

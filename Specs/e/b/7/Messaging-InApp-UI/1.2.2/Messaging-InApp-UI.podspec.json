@@ -19,7 +19,7 @@
   "vendored_frameworks": "SMIClientUI.xcframework",
   "dependencies": {
     "Messaging-InApp-Core": [
-
+      "1.2.2"
     ]
   },
   "requires_arc": true

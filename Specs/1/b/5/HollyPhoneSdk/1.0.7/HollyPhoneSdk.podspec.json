@@ -28,11 +28,13 @@
   ],
   "pod_target_xcconfig": {
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64",
-    "VALID_ARCHS": "arm64 x86_64"
+    "VALID_ARCHS": "arm64 x86_64",
+    "HEADER_SEARCH_PATHS": "${PODS_ROOT}/HollyPhoneSdk/"
   },
   "user_target_xcconfig": {
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64",
-    "VALID_ARCHS": "arm64 x86_64"
+    "VALID_ARCHS": "arm64 x86_64",
+    "HEADER_SEARCH_PATHS": "${PODS_ROOT}/HollyPhoneSdk/"
   },
   "static_framework": true
 }

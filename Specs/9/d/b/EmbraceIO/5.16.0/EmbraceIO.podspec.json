@@ -11,7 +11,7 @@
   "authors": "Embrace.io",
   "documentation_url": "https://embrace.io/docs/",
   "source": {
-    "http": "https://embrace-downloads-prod.s3.amazonaws.com/embrace_5.16.0.zip"
+    "http": "https://downloads.embrace.io/embrace_5.16.0.zip"
   },
   "preserve_paths": [
     "run.sh",

@@ -31,10 +31,13 @@
     "WebKit"
   ],
   "vendored_frameworks": [
-    "HRISSDK.xcframework",
-    "HiARSpaceCore.xcframework",
-    "HiARSlam.framework",
-    "HiLeiaSignaling.framework"
+    "*.xcframework",
+    "*.framework"
   ],
+  "dependencies": {
+    "HiLeiaSignaling": [
+      "~> 1.2.1.470-testing"
+    ]
+  },
   "swift_version": "5"
 }

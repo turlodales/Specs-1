@@ -14,24 +14,24 @@
     "ios": "12.0"
   },
   "frameworks": [
-    "CoreLocation",
-    "CoreTelephony",
-    "CoreFoundation",
+    "Foundation",
+    "OpenGLES",
     "UIKit",
     "CoreGraphics",
-    "SystemConfiguration",
     "Security",
+    "SystemConfiguration",
     "QuartzCore",
-    "OpenGLES",
-    "Foundation"
+    "CoreLocation",
+    "CoreFoundation",
+    "CoreTelephony"
   ],
   "libraries": [
-    "c++",
-    "resolv"
+    "resolv",
+    "c++"
   ],
   "source": {
     "http": "https://maps-ios-pods-public.s3.yandex.net/YandexMapsMobile-4.2.0-full.framework.zip",
-    "sha1": "6efaf32dcc7a490fde9f82fc16880a3352672078"
+    "sha1": "14de759b66c10dd96e5e457c48b715f27eb98257"
   },
   "documentation_url": "https://tech.yandex.com/maps/mapkit",
   "resources": "YandexMapsMobile.bundle",

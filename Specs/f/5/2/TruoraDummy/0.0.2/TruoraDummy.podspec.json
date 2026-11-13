@@ -29,6 +29,7 @@
       "~> 5.4.3"
     ]
   },
+  "deprecated": true,
   "subspecs": [
     {
       "name": "TruoraCoreDummy",

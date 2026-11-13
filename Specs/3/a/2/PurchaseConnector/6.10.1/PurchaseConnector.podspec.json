@@ -31,7 +31,7 @@
       "ios": {
         "dependencies": {
           "AppsFlyerFramework": [
-            ">= 6.10.1"
+            "6.10.1"
           ]
         },
         "preserve_paths": "PurchaseConnector.xcframework",
@@ -43,7 +43,7 @@
       "ios": {
         "dependencies": {
           "AppsFlyerFramework/Dynamic": [
-            ">= 6.10.1"
+            "6.10.1"
           ]
         },
         "preserve_paths": "Dynamic/PurchaseConnector.xcframework",

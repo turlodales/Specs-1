@@ -11,7 +11,7 @@
   "documentation_url": "https://developer.digitalturbine.com/",
   "social_media_url": "https://twitter.com/Fyber",
   "source": {
-    "http": "https://cdn2.inner-active.mobi/offerwall-sdk/unity/FyberSDKUnityBridge-iOS-SDK-9.2.6.zip"
+    "http": "https://storage.googleapis.com/gcs-fairbid-sdk-assets-prod-useast1/offerwall-sdk/unity/FyberSDKUnityBridge-iOS-SDK-9.2.6.zip"
   },
   "platforms": {
     "ios": "11.0"

@@ -30,6 +30,7 @@
       "~> 3"
     ]
   },
+  "deprecated": true,
   "subspecs": [
     {
       "name": "TruoraCoreDummy",

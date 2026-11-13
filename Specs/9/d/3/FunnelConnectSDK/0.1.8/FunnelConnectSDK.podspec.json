@@ -1,7 +1,7 @@
 {
   "name": "FunnelConnectSDK",
   "version": "0.1.8",
-  "summary": "FunnelConnectSDK for iOS",
+  "summary": "funnelConnectSDK for iOS",
   "homepage": "https://github.com/Teavaro/FunnelConnect-iOS-SDK",
   "source": {
     "git": "https://github.com/Teavaro/FunnelConnect-iOS-SDK.git",
@@ -13,11 +13,10 @@
   "user_target_xcconfig": {
     "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
   },
-  "authors": "Teavaro",
-  "license": {
-    "type": "Commercial",
-    "file": "LICENSE"
+  "authors": {
+    "funnelConnectSDK": "ahmad.mahmoud@teavaro.org"
   },
+  "license": "Commercial",
   "vendored_frameworks": "funnelConnectSDK.xcframework",
   "libraries": "c++",
   "platforms": {

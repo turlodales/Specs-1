@@ -10,8 +10,7 @@
     "text": "\n                  Copyright 2021\n                  Permission is granted to Usercentrics\n                "
   },
   "source": {
-    "git": "https://bitbucket.org/usercentricscode/usercentrics-ios-sdk.git",
-    "tag": "2.0.2"
+    "http": "https://bitbucket.org/usercentricscode/usercentrics-spm-ui/downloads/UsercentricsUI-2.0.2.xcframework.zip"
   },
   "vendored_frameworks": "UsercentricsUI.xcframework",
   "dependencies": {

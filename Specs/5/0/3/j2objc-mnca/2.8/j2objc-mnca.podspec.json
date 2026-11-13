@@ -16,6 +16,7 @@
     "ios": "9.0"
   },
   "requires_arc": false,
+  "static_framework": true,
   "preserve_paths": "j2objc_lib/**/*",
   "public_header_files": "j2objc_lib/include/**/*.h",
   "source_files": "j2objc_lib/include/**/*.h",
@@ -27,11 +28,5 @@
   ],
   "xcconfig": {
     "HEADER_SEARCH_PATHS": "\"${PODS_ROOT}/j2objc_lib/include\""
-  },
-  "pod_target_xcconfig": {
-    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
-  },
-  "user_target_xcconfig": {
-    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "arm64"
   }
 }
